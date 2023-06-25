@@ -4,49 +4,26 @@ fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: medeirosdantassabrinakarine@gmail.com
+  github: Sabrinamdantas
+  linkedin: 
   phone: 
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: English(basic)
+  
+  
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
-
-skills:
-  - category: Backend
-    skill: 
-      - Go
-      - Rust
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+    high school: IFRN campus-Mossoró (studying)
+    time: 2023-
+    
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
-
+  Estudante do 1º ano de informática integrado ao ensino médio pelo IFRN campus- Mossoró, com conhecimentos em inglês e empreendedorismos. Proativa, organizada e  responsável, busco oportunidade para desenvolver habilidades e colaborar com a empresa
 # Experience
 experience:
   - role: Software Engineer
